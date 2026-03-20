@@ -1,0 +1,11 @@
+## Interface: 120001
+## Title: Panharing niet releasen
+## Notes: Displays death message while in raid.
+## DefaultState: enabled
+## Author: Yllit
+## Version: 1.0
+## IconTexture: Interface\Icons\Achievement_boss_svalasorrowgrave
+## SavedVariables: PanharingDB
+
+Panharing.lua
+Config.lua
